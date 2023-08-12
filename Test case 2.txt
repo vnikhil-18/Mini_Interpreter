@@ -1,0 +1,6 @@
+begin a=10;b=10 end
+
+OUTPUT-
+From Symbol Table
+a = 10
+b = 10

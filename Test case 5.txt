@@ -1,0 +1,7 @@
+a=5;println(a);println("HI")
+
+OUTPUT- 
+5
+HI
+From Symbol Table
+a = 5

@@ -1,0 +1,7 @@
+if (True) a=10;b=5;c=a+b else a=5 end
+
+OUTPUT-
+From Symbol Table
+a = 10
+b = 5
+c = 15

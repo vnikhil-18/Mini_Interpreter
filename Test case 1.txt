@@ -1,0 +1,8 @@
+a= 5>7;b= 5<7;x=20.0;y=10*5+4/2
+
+OUTPUT-
+From Symbol Table
+a = False
+b = True
+x = 20.0
+y = 52.0
